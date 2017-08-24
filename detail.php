@@ -57,7 +57,7 @@ $pop=$_GET[pop];
 $probe1=$_GET[probe1];
 $probe2=$_GET[probe2];
 $sql1 = "select * from result where pop='".$pop."' and probe1 ='".$probe1."' and probe2='".$probe2."'";
-$dbhost = 'tunisia.ads.uga.edu';
+$dbhost = 'xxx.xxx.xxx.xxx';
 $dbuser = 'apache';
 $dbpass = 'searchdatabase';
 $dbname = 'snpxge';
