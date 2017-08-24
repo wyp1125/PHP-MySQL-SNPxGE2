@@ -75,7 +75,7 @@ $is_goid=1;
 $keys=$a[1];
 }
 }
-$dbhost = 'tunisia.ads.uga.edu';
+$dbhost = 'xxx.xxx.xxx.xxx';
 $dbuser = 'apache';
 $dbpass = 'searchdatabase';
 $dbname = 'snpxge';
