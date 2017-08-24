@@ -54,7 +54,7 @@
 //$model=$_GET[model];
 $cutoff=$_GET[fdr];
 $goid=$_GET[go];
-$dbhost = 'tunisia.ads.uga.edu';
+$dbhost = 'xxx.xxx.xxx.xxx';
 $dbuser = 'apache';
 $dbpass = 'searchdatabase';
 $dbname = 'snpxge';
